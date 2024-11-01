@@ -92,3 +92,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Samir Thakuri  
 [My GitHub Profile](https://github.com/notsopreety)
+
+
+
+
+
+# Feel Free to use this Blackbox AI API with these models
+1. gpt-4o
+2. claude-sonnet-3.5
+3. gemini-pro
+5. blackboxai
+
+# https://github.com/notsopreety/blackbox-api
+Remove (🪔)
